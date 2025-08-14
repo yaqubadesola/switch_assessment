@@ -54,7 +54,8 @@ PayQuick is a single-page application designed to simulate a modern banking dash
 - **State Management:** Redux Toolkit, React-Redux
 - **Styling:** Tailwind CSS
 - **Build Tool:** Vite
-- **Other:** `prop-types` for prop validation
+- **Axios Mock Adapter:** Mock API
+- **Axios:** For Fetching API
 
 ### Setup and Installation
 
@@ -63,8 +64,8 @@ Follow these steps to get the project up and running on your local machine.
 1.  **Clone the repository:**
 
     ```bash
-    git clone [your_repository_url]
-    cd INTERSWITCH_ASS
+    git clone [https://github.com/yaqubadesola/switch_assessment.git]
+    cd switch_assessment
     ```
 
 2.  **Install dependencies:**
