@@ -96,15 +96,15 @@ To access the dashboard, use the following credentials on the login page:
 
 #### Landing Page
 
-![Landing Page](https://i.imgur.com/your-landing-page-image-url.png)
+![Landing Page](https://github.com/yaqubadesola/switch_assessment/blob/master/docs/images/LandingPage.png)
 
 #### Login Page
 
-![Login Page](https://i.imgur.com/your-login-page-image-url.png)
+![Login Page](https://github.com/yaqubadesola/switch_assessment/blob/master/docs/images/LoginPage.png)
 
 #### Dashboard
 
-![Dashboard](https://i.imgur.com/your-dashboard-image-url.png)
+![Dashboard](https://github.com/yaqubadesola/switch_assessment/blob/master/docs/images/DashboardPage.png)
 
 ---
 
