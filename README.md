@@ -89,6 +89,7 @@ The application will be available at `http://localhost:5173`.
 
 To access the dashboard, use the following credentials on the login page:
 
+- **Demo Site:** `https://switch-assesment.netlify.app/`
 - **Username:** `yaqub.adesola`
 - **Password:** `123456`
 
