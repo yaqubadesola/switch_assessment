@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-
+//fixing case sensitivity
 const loaderSlice = createSlice({
   name: "loader",
   initialState: { isLoading: false },
