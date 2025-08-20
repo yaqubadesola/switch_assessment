@@ -1,6 +1,6 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import api from "../../api/mockApi";
-import { startLoading, stopLoading } from "../loader/loaderSlice";
+import { startLoading, stopLoading } from "../loader/loaderslices";
 
 export const fetchAccounts = createAsyncThunk(
   "accounts/fetchAccounts",
