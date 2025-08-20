@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/yaqubadesola/switch_assessment",
+  "homepage": "https://yaqubadesola.github.io/switch_assessment",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
