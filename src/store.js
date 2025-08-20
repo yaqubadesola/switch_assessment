@@ -3,7 +3,7 @@ import authReducer from "./features/auth/authSlice";
 import accountsReducer from "./features/accounts/accountsSlice";
 import profileReducer from "./features/profile/profileSlice";
 import transactionsReducer from "./features/transactions/transactionsSlice";
-import loaderReducer from "./features/loader/loaderSlice";
+import loaderReducer from "./features/loader/loaderSpinSlice";
 
 export const store = configureStore({
   reducer: {
